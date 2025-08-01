@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 BTech CSE Student (2025–2029)<br>
-  🚀 Aspiring Software Engineer | Future Googler<br>
+  🚀 Aspiring Software Engineer<br>
   📍 Kanpur, India
 </p>
 
