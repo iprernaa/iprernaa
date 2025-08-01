@@ -1,16 +1,45 @@
-## Hi there 👋
+<h2 align="center">Hey there! 👋 I'm Prerna</h2>
 
-<!--
-**iprernaa/iprernaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 BTech CSE Student (2025–2029)<br>
+  🚀 Aspiring Software Engineer | Future Googler<br>
+  📍 Kanpur, India
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍🎓 About Me
+
+I'm currently pursuing BTech in Computer Science & Engineering at **Kanpur Institute of Technology**.  
+I'm passionate about **coding, building real-world projects**, and preparing for **top tech companies like Google and Microsoft**.
+
+- 🌱 Learning: C++, Data Structures, Git & GitHub
+- 💡 Interests: Web Dev, Competitive Programming, Open Source
+- 🏁 Goal: Get into Google STEP, Microsoft Engage & GSoC
+
+---
+
+### 🧠 Skills (Growing Stack)
+
+- Programming: `C++`, `HTML`, `CSS`, `JavaScript (basic)`
+- Tools: `Git`, `GitHub`, `VS Code`, `Notion`
+- Learning: `DSA`, `Problem Solving`, `Git`, `Frontend Basics`
+
+---
+
+### 📈 Current Focus
+
+- Building coding discipline via daily LeetCode/GFG practice  
+- Creating mini-projects and uploading to GitHub  
+- Exploring Open Source & participating in coding events  
+- Acing semester subjects along with FAANG prep  
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: iprernasingh2006@gmail.com  
+- 💼 LinkedIn: [Prerna Singh](https://www.linkedin.com/in/prerna-singh-a82288373)  
+---
+
+⭐ *Thanks for visiting my profile! Let's grow together 🌱*
