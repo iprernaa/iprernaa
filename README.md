@@ -15,8 +15,7 @@ I'm passionate about **coding, building real-world projects**, and preparing for
 
 - 🌱 Learning: C++, Data Structures, Git & GitHub
 - 💡 Interests: Web Dev, Competitive Programming, Open Source
-- 🏁 Goal: Get into Google STEP, Microsoft Engage & GSoC
-
+- 🏁 Goal: Explore top tech opportunities and enhance my skills through real-world experience
 ---
 
 ### 🧠 Skills (Growing Stack)
