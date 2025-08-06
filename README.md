@@ -11,7 +11,7 @@
 ### 👩‍🎓 About Me
 
 I'm currently pursuing BTech in Computer Science & Engineering at **Kanpur Institute of Technology**.  
-I'm passionate about **coding, building real-world projects**, and preparing for **top tech companies like Google and Microsoft**.
+I'm passionate about **coding, building real-world projects**, and preparing for **top tech companies**.
 
 - 🌱 Learning: C++, Data Structures, Git & GitHub
 - 💡 Interests: Web Dev, Competitive Programming, Open Source
