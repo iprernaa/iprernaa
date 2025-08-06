@@ -31,7 +31,6 @@ I'm passionate about **coding, building real-world projects**, and preparing for
 - Building coding discipline via daily LeetCode/GFG practice  
 - Creating mini-projects and uploading to GitHub  
 - Exploring Open Source & participating in coding events  
-- Acing semester subjects along with FAANG prep  
 
 ---
 
