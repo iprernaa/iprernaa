@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! 👋 I'm Prerna</h2>
+<h2 align="center">Hey there! I'm Prerna👩🏻‍💻</h2>
 
 <p align="center">
   BTech CSE Student (2025–2029)<br>
